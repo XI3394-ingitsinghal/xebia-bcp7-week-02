@@ -4,7 +4,7 @@ public class Whatsapp implements VideoCallManager,ChatManager{
 
 	@Override
 	public void chat() {
-		System.out.println("Enter Chat Message");
+		System.out.println("WhatsApp: Enter Chat Message");
 		
 	}
 
